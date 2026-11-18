@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.10.0.exe",
-  "sha256": "58e91f8165e2cf08dc17ec46c945040d8035b615c1d7915556c39393427280a8",
-  "size": 98045524,
+  "version": "0.10.1",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.10.1.exe",
+  "sha256": "0476227b6358a2bb82d321b70393add0d030f16fffbc499724ce59de3ade61b2",
+  "size": 98048628,
   "date": "2026-11-18",
-  "notes": "Il Muse 2 si collega al PC con un ponte Bluetooth nativo (come Petal Metrics e BlueMuse), con diagnostica del collegamento."
+  "notes": "Segnale giudicato come fa l'app Muse: i sensori diventano verdi con un buon contatto anche con deriva, battiti di ciglia e muscoli; ricezione più robusta e diagnostica con rumore per sensore."
 }
