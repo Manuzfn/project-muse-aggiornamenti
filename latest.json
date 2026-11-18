@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.9.0.exe",
-  "sha256": "68168556318d72cff1f85fcc730d2954a7d9fc2a1d257b28fb40924abd3b5f54",
-  "size": 97035244,
+  "version": "0.9.1",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.9.1.exe",
+  "sha256": "0c4361bbc61748315673e7cdf8504a2dad864a8af683f25bcf7d6f808856c0a3",
+  "size": 97066221,
   "date": "2026-11-18",
-  "notes": "Caschetto Muse 2 via Bluetooth, Sessione dal vivo funzionante e nuova sezione Calibrazione per affinare il riconoscimento delle emozioni."
+  "notes": "Calibrazione rifatta: mostri un'opera qualsiasi, il sistema rileva l'emozione e genera l'immagine, poi la persona dice cosa ha provato."
 }
