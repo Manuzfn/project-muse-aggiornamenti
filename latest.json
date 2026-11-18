@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.8.0.exe",
-  "sha256": "a9cfdd57794223bf497811f414001da06cde868de3b3802e346e582f65ee0cdc",
-  "size": 97051275,
-  "date": "2026-11-12",
-  "notes": "Impostazioni: account di invio delle mail, oggetto e contatti, qualità delle immagini, tema, aggiornamenti. Nella mail il PDF del racconto ora si vede subito."
+  "version": "0.9.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.9.0.exe",
+  "sha256": "68168556318d72cff1f85fcc730d2954a7d9fc2a1d257b28fb40924abd3b5f54",
+  "size": 97035244,
+  "date": "2026-11-18",
+  "notes": "Caschetto Muse 2 via Bluetooth, Sessione dal vivo funzionante e nuova sezione Calibrazione per affinare il riconoscimento delle emozioni."
 }
