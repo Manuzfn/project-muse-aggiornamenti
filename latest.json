@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.9.1.exe",
-  "sha256": "0c4361bbc61748315673e7cdf8504a2dad864a8af683f25bcf7d6f808856c0a3",
-  "size": 97066221,
+  "version": "0.10.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.10.0.exe",
+  "sha256": "58e91f8165e2cf08dc17ec46c945040d8035b615c1d7915556c39393427280a8",
+  "size": 98045524,
   "date": "2026-11-18",
-  "notes": "Calibrazione rifatta: mostri un'opera qualsiasi, il sistema rileva l'emozione e genera l'immagine, poi la persona dice cosa ha provato."
+  "notes": "Il Muse 2 si collega al PC con un ponte Bluetooth nativo (come Petal Metrics e BlueMuse), con diagnostica del collegamento."
 }
