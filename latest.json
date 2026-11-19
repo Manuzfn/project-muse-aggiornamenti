@@ -1,8 +1,8 @@
 {
-  "version": "0.10.1",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/ProjectMuse-Setup-0.10.1.exe",
-  "sha256": "0476227b6358a2bb82d321b70393add0d030f16fffbc499724ce59de3ade61b2",
-  "size": 98048628,
-  "date": "2026-11-18",
-  "notes": "Segnale giudicato come fa l'app Muse: i sensori diventano verdi con un buon contatto anche con deriva, battiti di ciglia e muscoli; ricezione più robusta e diagnostica con rumore per sensore."
+  "version": "0.11.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.11.0.exe",
+  "sha256": "c5795d5b0941560383c1f117faf08897aedb9cb343b8213aa372d48765f9af4f",
+  "size": 97759641,
+  "date": "2026-11-19",
+  "notes": "Nuovo nome: Visualize Your Emotions. Si apre sempre sulla sessione dal vivo, con un menu a tendina in alto a destra; riposo e visione a 30 secondi; immagini in resina lucida 3D. I dati restano tutti."
 }
