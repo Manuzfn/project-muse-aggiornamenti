@@ -1,8 +1,8 @@
 {
-  "version": "0.11.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.11.0.exe",
-  "sha256": "c5795d5b0941560383c1f117faf08897aedb9cb343b8213aa372d48765f9af4f",
-  "size": 97759641,
+  "version": "0.11.1",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.11.1.exe",
+  "sha256": "ce8dd0bf129b9312b6aad5c8ead8bc4917e7673a448d707b8a194175b3b0f084",
+  "size": 97785331,
   "date": "2026-11-19",
-  "notes": "Nuovo nome: Visualize Your Emotions. Si apre sempre sulla sessione dal vivo, con un menu a tendina in alto a destra; riposo e visione a 30 secondi; immagini in resina lucida 3D. I dati restano tutti."
+  "notes": "Nuovo nome: Visualize Your Emotions. Si apre sempre sulla sessione dal vivo, con un menu a tendina in alto a destra; riposo e visione a 30 secondi; immagini in resina lucida 3D, con riflessi lisci anche a 4096 px. I dati restano tutti."
 }
