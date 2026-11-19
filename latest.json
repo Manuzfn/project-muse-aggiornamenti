@@ -1,8 +1,8 @@
 {
-  "version": "0.11.1",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.11.1.exe",
-  "sha256": "ce8dd0bf129b9312b6aad5c8ead8bc4917e7673a448d707b8a194175b3b0f084",
-  "size": 97785331,
+  "version": "0.12.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.12.0.exe",
+  "sha256": "973a676603f731cf4d892b910a3a1d2b2ff1d4a730544515514a7a9f3c57813c",
+  "size": 97772129,
   "date": "2026-11-19",
-  "notes": "Nuovo nome: Visualize Your Emotions. Si apre sempre sulla sessione dal vivo, con un menu a tendina in alto a destra; riposo e visione a 30 secondi; immagini in resina lucida 3D, con riflessi lisci anche a 4096 px. I dati restano tutti."
+  "notes": "Segnale stabile come nelle app Muse: indicatore di contatto sull'ultimo secondo filtrato 3–40 Hz, con soglie tarate su registrazioni vere e colori che non sfarfallano; tracce filtrate e leggibili; raccolta dei dati come i client che funzionano (risposte del caschetto, sorveglianza, ricollegamento automatico); registrazione per la diagnosi."
 }
