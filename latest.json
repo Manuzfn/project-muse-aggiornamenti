@@ -1,8 +1,8 @@
 {
-  "version": "0.12.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.12.0.exe",
-  "sha256": "973a676603f731cf4d892b910a3a1d2b2ff1d4a730544515514a7a9f3c57813c",
-  "size": 97772129,
-  "date": "2026-11-19",
-  "notes": "Segnale stabile come nelle app Muse: indicatore di contatto sull'ultimo secondo filtrato 3–40 Hz, con soglie tarate su registrazioni vere e colori che non sfarfallano; tracce filtrate e leggibili; raccolta dei dati come i client che funzionano (risposte del caschetto, sorveglianza, ricollegamento automatico); registrazione per la diagnosi."
+  "version": "0.13.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.13.0.exe",
+  "sha256": "c72c07d58cd1a7287d4b50861a97d1326ab2c7dc97486c041a95cfdbb44ed22b",
+  "size": 98119810,
+  "date": "2026-11-20",
+  "notes": "Catalogo di 4.300 immagini evocative nella Calibrazione: opere di pubblico dominio della National Gallery of Art, dell'Art Institute of Chicago e del Cleveland Museum of Art e fotografie OASIS, in ordine casuale a ogni sessione; immagine grande sul primo schermo con il tutto schermo (F/Esc); copia delle immagini sul PC; ricerca, esclusioni e cosa evocano le immagini già viste."
 }
