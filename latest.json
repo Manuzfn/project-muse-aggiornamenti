@@ -1,8 +1,8 @@
 {
-  "version": "0.13.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.13.0.exe",
-  "sha256": "c72c07d58cd1a7287d4b50861a97d1326ab2c7dc97486c041a95cfdbb44ed22b",
-  "size": 98119810,
-  "date": "2026-11-20",
-  "notes": "Catalogo di 4.300 immagini evocative nella Calibrazione: opere di pubblico dominio della National Gallery of Art, dell'Art Institute of Chicago e del Cleveland Museum of Art e fotografie OASIS, in ordine casuale a ogni sessione; immagine grande sul primo schermo con il tutto schermo (F/Esc); copia delle immagini sul PC; ricerca, esclusioni e cosa evocano le immagini già viste."
+  "version": "0.14.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.14.0.exe",
+  "sha256": "1dc2f817f65877ff942370931c4bc80caf81beca0640cf543f18aec984f015ff",
+  "size": 99875157,
+  "date": "2026-11-24",
+  "notes": "Quattro emozioni (gioia, calma, tristezza, paura) con le dodici di prima come sfumature del disegno; taratura personale con 24 foto standard prima dell'immagine, con i suoi grafici (nella sessione dal vivo si può saltare); Stanza A con taratura e Stanza B senza, con immagini casuali del catalogo e la domanda finale; Dashboard che confronta le due stanze; impostazioni per escludere i primi 5 secondi e dare più peso alla fine della visione. Tolta per ora la pagina Calibrazione: le prove raccolte restano sul PC."
 }
