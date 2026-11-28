@@ -1,8 +1,8 @@
 {
-  "version": "0.14.0",
-  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.14.0.exe",
-  "sha256": "1dc2f817f65877ff942370931c4bc80caf81beca0640cf543f18aec984f015ff",
-  "size": 99875157,
-  "date": "2026-11-24",
-  "notes": "Quattro emozioni (gioia, calma, tristezza, paura) con le dodici di prima come sfumature del disegno; taratura personale con 24 foto standard prima dell'immagine, con i suoi grafici (nella sessione dal vivo si può saltare); Stanza A con taratura e Stanza B senza, con immagini casuali del catalogo e la domanda finale; Dashboard che confronta le due stanze; impostazioni per escludere i primi 5 secondi e dare più peso alla fine della visione. Tolta per ora la pagina Calibrazione: le prove raccolte restano sul PC."
+  "version": "0.15.0",
+  "url": "https://raw.githubusercontent.com/Manuzfn/project-muse-aggiornamenti/main/VisualizeYourEmotions-Setup-0.15.0.exe",
+  "sha256": "a45d73efc2ad5a5a16c64ffcdf625bc5ca8eb6cee283845615c8782532d50ac2",
+  "size": 99855040,
+  "date": "2026-11-28",
+  "notes": "La taratura non chiede più niente alla persona: si affida alle foto standard e osserva a quali valori del segnale corrisponde ciascuna emozione in quella persona (le sue impronte), che diventano il riferimento per l'immagine finale. Nuova impostazione «Quanto conta la taratura»: Automatico (lo decidono i dati, confrontando impronte e modello generale sulle stesse serie) o Totale (solo le impronte). Nella Dashboard la Stanza A si vede anche «solo impronte» e «solo modello generale», con un filtro per modalità."
 }
